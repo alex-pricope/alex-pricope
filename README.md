@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alex-pricope
 - 👀 I’m interested in GoLang, C#, .NET 
-- 🌱 I’m currently learning Goland
+- 🌱 I’m currently learning Goland and Flutter
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/alexpricope
 
